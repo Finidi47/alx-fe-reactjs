@@ -1,8 +1,8 @@
 import UserInfo from './UserInfo'
 
-function ProfilePage({userData}){
+function ProfilePage(){
     return(
-        <UserInfo userData={userData} />
+        <UserInfo />
     )
 }
 
